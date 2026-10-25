@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-06-16T14:41:29.576Z" lasteditedby="User" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>О программе</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">О программе</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Название: Зона испытаний (Sabotage Run)</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Назначение: игровое приложение в жанре 2D-платформер для соревновательного досуга двух игроков за одним компьютером.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Возможности программы:</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="&#252;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; font-family:Wingdings; font-size:14pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">совместная игра двух игроков (Бегун и Саботажник)</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">выбор одного из трёх уровней</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">настройка разрешения экрана (1280×720, 1600×900, 1920×1080)</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">выбор сложности (Лёгкая, Нормальная, Сложная)</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">ведение статистики игровых сессий</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">сохранение статистики в текстовый файл</text></li>
+      <li styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">включение/выключение звука</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Область применения: домашний досуг, соревновательные игры с друзьями.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Периодичность использования: по желанию пользователя, неограниченно.</text></para>
+  </body>
+</topic>

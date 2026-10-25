@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-06-16T14:52:39.452Z" lasteditedby="User" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Интерфейс</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Интерфейс</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">На игровом экране отображаются следующие элементы:</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Жизни Бегуна — три сердечка в верхнем левом углу. При потере жизни сердечко исчезает.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Таймер времени — отображает оставшееся время на прохождение уровня. При истечении времени игра завершается поражением.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Номер текущего уровня — отображается в верхней части экрана.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Панель ловушек Саботажника — находится в левой части экрана. Для каждой ловушки указан её номер (1-4), название и таймер перезарядки.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Очки — начисляются за сбор синих сфер. Зеленые сферы добавляют 10 секунд к таймеру (бонус времени).</text></para>
+  </body>
+</topic>

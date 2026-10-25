@@ -1,0 +1,23 @@
+﻿  gameplay.cpp
+D:\Архив 2 курс\проекты c++\SabotageRun\gameplay.cpp(181,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\gameplay.cpp(181,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\gameplay.cpp(182,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\gameplay.cpp(182,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  interface.cpp
+  levels.cpp
+  Создание кода...
+  main.cpp
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(584,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(864,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1234,99): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1234,76): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1234,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1234,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1243,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1399,110): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1399,82): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1399,57): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1399,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Архив 2 курс\проекты c++\SabotageRun\main.cpp(1436,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  SabotageRun.vcxproj -> D:\Архив 2 курс\проекты c++\SabotageRun\x64\Debug\SabotageRun.exe

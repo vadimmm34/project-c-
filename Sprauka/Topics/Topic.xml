@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-06-16T14:47:16.051Z" lasteditedby="User" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Главная</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Главная</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-weight:bold;">Добро пожаловать в игру «Зона испытаний»!</text></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Данная справочная система поможет вам быстро освоиться с игровым приложением «Зона испытаний» (Sabotage Run).</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Игра представляет собой динамичный 2D-платформер, в котором два игрока соревнуются за одним компьютером. Один человек управляет Игроком и старается пройти уровень, а второй — Саботажником — активирует ловушки и мешает прохождению.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">В справке вы найдете информацию об управлении, игровом процессе, ловушках и настройках программы.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Содержание справки:</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">О программе — общие сведения о приложении</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Управление — описание клавиш для Бегуна и Саботажника</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Настройки — изменение разрешения, сложности и звука</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Об игре — правила, цель, ловушки и интерфейс</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Об авторе — информация о разработчике</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Вызов справки: нажмите клавишу F1 в любой момент игры.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+  </body>
+</topic>

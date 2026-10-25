@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-06-16T14:57:36.056Z" lasteditedby="User" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Об авторе</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Об авторе</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-weight:bold;">ОБ АВТОРЕ</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Автором этой игры является Карп Вадим Дмитриевич из Гродненского государственного политехнического колледжа, группа ПЗТ-45.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-weight:bold;">ОБ ИГРЕ</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">«Зона испытаний» — это динамичный 2D-платформер, в котором всё завязано на реакции, ловкости и умении быстро принимать решения. Но главная фишка в том, что здесь два игрока соревнуются за одним компьютером: один пытается пройти уровень, а второй всячески ему мешает, активируя ловушки.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Я прописывал физику движений, чтобы персонаж чувствовал себя живым: прыжки, гравитация, столкновения с платформами — всё это я настраивал вручную, добиваясь плавного и отзывчивого управления. Логика игры создана мной: как работают ловушки, как ведёт себя камера на разных уровнях, как начисляются очки и бонусы.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Уровни я собирал так, чтобы прохождение было непростым, но честным. Тебя ждут движущиеся платформы, опасная лава, бонусы времени, которые помогают выжить, и детальная статистика, которая сохраняет каждую твою попытку. Я старался, чтобы каждый элемент игры был продуман и работал слаженно и надежно.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-weight:bold;">НА ЧЁМ СДЕЛАНО?</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Всё написано на C++ — языке, который даёт полный контроль над тем, что происходит в программе. Для графики и звука я использовал библиотеку Raylib: она простая, быстрая и отлично подходит для 2D-игр. Разработка велась в Microsoft Visual Studio — там я писал код, отлаживал его и собирал игру в единый исполняемый файл.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Проект создавался в мае - июне 2026 года </text></para>
+  </body>
+</topic>

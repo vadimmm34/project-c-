@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="461897729900048" build="ALL" modified="2026-06-16T14:36:10.445Z" icon="0" href="Topic">
+    <caption translate="true">Главная</caption>
+    <topicref type="topic" id="461897741512413" build="ALL" modified="2026-06-16T14:36:10.557Z" icon="0" href="-">
+      <caption translate="true">О программе</caption>
+    </topicref>
+    <topicref type="topic" id="461896011097446" build="ALL" modified="2026-06-16T14:36:10.584Z" icon="0" href="Topic2">
+      <caption translate="true">Управление</caption>
+      <topicref type="topic" id="461894065976374" build="ALL" modified="2026-06-16T14:44:34.864Z" icon="0" href="Topic3">
+        <caption translate="true">Игрок</caption>
+      </topicref>
+      <topicref type="topic" id="461897262663686" build="ALL" modified="2026-06-16T14:36:10.636Z" icon="0" href="Topic4">
+        <caption translate="true">Саботажник</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="461896606259300" build="ALL" modified="2026-06-16T14:36:10.661Z" icon="0" href="Topic5">
+      <caption translate="true">Настройки</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="461898219051135" build="ALL" modified="2026-06-16T14:36:10.684Z" icon="0" href="-2">
+    <caption translate="true">Об игре</caption>
+    <topicref type="topic" id="461896354657035" build="ALL" modified="2026-06-16T14:36:10.709Z" icon="0" href="-3">
+      <caption translate="true">Цель игры</caption>
+    </topicref>
+    <topicref type="topic" id="461895645862153" build="ALL" modified="2026-06-16T14:36:10.734Z" icon="0" href="Topic6">
+      <caption translate="true">Ловушки</caption>
+    </topicref>
+    <topicref type="topic" id="461896578136780" build="ALL" modified="2026-06-16T14:36:10.759Z" icon="0" href="Topic7">
+      <caption translate="true">Интерфейс</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="46188732004180" build="ALL" modified="2026-06-16T14:36:10.782Z" icon="0" href="-4">
+    <caption translate="true">Об авторе</caption>
+  </topicref>
+</map>

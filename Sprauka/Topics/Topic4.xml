@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-06-16T14:46:09.657Z" lasteditedby="User" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Саботажник</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Саботажник</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Активация ловушек: клавиши 1, 2, 3, 4 на основной клавиатуре.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Цель Саботажника: помешать Игроку пройти уровень, активируя ловушки в наиболее подходящий момент.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Описание ловушек:</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Клавиша 1 — замедление скорости Бегуна на несколько секунд</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Клавиша 2 — увеличение силы гравитации</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Клавиша 3 — периодическое мигание экрана</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Клавиша 4 — инверсия клавиш управления</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Перезарядка: после активации ловушка становится недоступной на некоторое время (на панели отображается красным цветом и таймером).</text></para>
+  </body>
+</topic>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SabotageRun.vcxproj" Id="bc87ed5d-3bb3-4ce6-a4ab-b85f83c5526c" />
+</Solution>

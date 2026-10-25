@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-06-16T14:50:34.122Z" lasteditedby="User" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Ловушки</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Ловушки</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Саботажник может активировать четыре типа ловушек. Каждая ловушка оказывает временный негативный эффект на Игрока.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Ловушка 1 — Замедление (клавиша 1)</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Скорость движения Бегуна снижается на 50% на несколько секунд.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Ловушка 2 — Гравитация (клавиша 2)</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Сила гравитации увеличивается в 1.5 раза. Бегун падает быстрее и прыгает ниже.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Ловушка 3 — Мигание экрана (клавиша 3)</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Экран начинает периодически полностью затемняться, затрудняя ориентацию Бегуна.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Ловушка 4 — Инверсия управления (клавиша 4)</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Клавиши управления меняются местами: нажатие влево перемещает персонажа вправо, и наоборот.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Важно: после активации ловушка уходит в перезарядку и становится недоступна на некоторое время.</text></para>
+  </body>
+</topic>

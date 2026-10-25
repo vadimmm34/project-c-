@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SabotageRun\\x64\\Debug\\main.obj",
+            "outputs": [
+                "SabotageRun\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "SabotageRun\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-06-16T14:48:11.056Z" lasteditedby="User" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Об игре</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Об игре</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">«Зона испытаний» — это 2D-платформер с асимметричным игровым процессом.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Два игрока соревнуются за одним компьютером:</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Игрок проходит уровень, прыгая по платформам и уклоняясь от препятствий</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Саботажник активирует ловушки, чтобы помешать Игроку</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Игра содержит три уровня возрастающей сложности. На втором и третьем уровнях камера движется автоматически, подгоняя игрока.</text></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+  </body>
+</topic>

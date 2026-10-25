@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-06-16T14:45:21.133Z" lasteditedby="User" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Игрок</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Игрок</para>
+      <para styleclass="Normal"></para>
+    </header>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Движение влево: A или Стрелка влево</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Движение вправо: D или Стрелка вправо</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Прыжок: W или Стрелка вверх</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Цель Бегуна: добраться до золотой платформы в конце уровня.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Жизни: у Бегуна есть 3 жизни (изображаются в виде сердечек в верхней части экрана).</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">При падении в лаву или попадании в ловушку теряется одно сердечко, персонаж возрождается в начале уровня (или в контрольной точке на высокой сложности).</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Если жизни заканчиваются, игра завершается поражением.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
